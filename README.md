@@ -10,7 +10,7 @@ As for the parts list, you will need:
 - 34 MX or GLP keyswitches
 - 34 MX keycaps (MX low-profile for the GLP)
 - 34 Hotswap sockets for MX (optional)
-- 2x Ethernet sockets
+- 2x [Ethernet sockets](https://aliexpress.com/item/32974903992.html)
 - 1x ProMicro (Warning. I don't have possibility to test ALL clones, so, please, choose cearfully)
 
 ## Gerbers
